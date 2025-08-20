@@ -12,14 +12,14 @@ This repository contains code for training and using YOLOv8 segmentation to segm
 
 
 
-original image:
+Original image:
 
 ![pexels-alexgtacar-745150-1592384_jpg rf 18c8f8199a00c3035d6f2f8f636c7f96](https://github.com/user-attachments/assets/07fe9bb6-7140-423e-acd4-5a3cff4e829a)
 
-model’s raw output:
+Model’s raw output:
 
 ![pexels-alexgtacar-745150-1592384_jpg rf 18c8f8199a00c3035d6f2f8f636c7f96](https://github.com/user-attachments/assets/17852473-1126-4803-88e7-a7caa8e599b1)
 
-results on a white background:
+Results on a white background:
 
 ![pexels-alexgtacar-745150-1592384_jpg rf 18c8f8199a00c3035d6f2f8f636c7f96](https://github.com/user-attachments/assets/f1652e4b-d8ea-45f3-9eb0-f10a29c26b63)
