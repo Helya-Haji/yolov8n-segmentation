@@ -4,7 +4,7 @@ This repository contains code for training and using YOLOv8 segmentation to segm
 
 
 
-####It has two types of outputs:
+#### It has two types of outputs:
 
 * Saving model’s raw output (blue polygon mask + bounding box, similar to YOLO’s default visualizations) ----> saving models output.py
 
