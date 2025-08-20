@@ -1,6 +1,6 @@
 # Car Segmentation with YOLOv8 
 
-This repository contains code for training and using YOLOv8 segmentation to segment whole cars in images. The model is trained on a custom dataset and is able to generate segmentation masks that highlight the car region.
+This repository contains code for training and using YOLOv8 segmentation to segment cars in images. The model is trained on a custom dataset and is able to generate segmentation masks that highlight the car region.
 
 It has two types of outputs:
 
