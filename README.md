@@ -7,3 +7,5 @@ It has two types of outputs:
 * Saving model’s raw output (blue polygon mask + bounding box, similar to YOLO’s default visualizations) ----> saving models output.py
 
 * Saving results on a white background (the segmented car cropped and placed on a plain white canvas) ----> saving results.py
+  
+![pexels-alexgtacar-745150-1592384_jpg rf 18c8f8199a00c3035d6f2f8f636c7f96](https://github.com/user-attachments/assets/07fe9bb6-7140-423e-acd4-5a3cff4e829a)
